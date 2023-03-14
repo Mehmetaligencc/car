@@ -1,0 +1,90 @@
+body{
+    overflow-x: hidden
+    !important;
+}
+
+.volvo{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.0em;
+    transition: 0.5s ease ;
+}
+
+.volvo:hover{
+    transform: translateY(6px);
+}
+
+.bar-text{
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.9em;
+}
+
+.img-text{
+    position: absolute;
+    font-size: 1.3em;
+}
+
+.img-text-2{
+    position: absolute;
+    font-size: 2.4em;
+}
+
+.cardtext{
+    font-family: 'Poppins', sans-serif;
+}
+
+.volvopicture{
+    width: 400px;
+}
+
+
+.hovertext{
+    transition: 0.4s ease;
+}
+
+.hovertext:hover{
+    transform: translateY(3px);
+}
+
+.smalltext{
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.9em;
+}
+
+.smalltext2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.9em;
+}
+
+.smalltext3{
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.8em;
+}
+
+.h4text{
+    font-family: 'Poppins', sans-serif;
+}
+
+.btntext{
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.9em;
+}
+
+.homepage{
+    width: 1200px;
+}
+
+.footertext{
+    font-size: 0.6em;
+}
+
+.footertext2{
+    font-size: 0.7em;
+}
+
+.icon{
+    transition: 0.4s ease;
+}
+
+.icon:hover{
+    transform: translateY(3px);
+}
